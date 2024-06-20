@@ -1,0 +1,7 @@
+undetected-chromedriver
+termcolor
+py_imessage
+selenium
+Pillow
+pytesseract
+requests
